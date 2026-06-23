@@ -5,7 +5,7 @@
 
 ## About Me
 
-Cybersecurity student from Sahiwal, Pakistan focused on
+Cybersecurity student from Lahore, Pakistan focused on
 becoming a SOC Analyst. Currently building hands-on skills
 through TryHackMe, ISC2 CC, Cisco networking, and the
 Google Cybersecurity Certificate.
